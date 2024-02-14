@@ -1,5 +1,7 @@
-greetings = ['What is up John', 'Aloha John', 'Habari John']
+greetings = ['What is up John', 'Aloha John', 'Habari John', 'Hello John', 'Bonjour John',]
 
-greetings.each do |item|
+shuffled_greetings = greetings.shuffle
+
+shuffled_greetings.each do |item|
   Greeting.create!(message: item)
 end
