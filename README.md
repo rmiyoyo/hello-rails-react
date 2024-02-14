@@ -15,7 +15,6 @@ A greetings project set up as one app with Webpack.
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -60,10 +59,6 @@ The **Hello Rails React** is a greetings project set up as one app with Webpack.
 - Hello Rails React
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Coming Soon
 
 <!-- GETTING STARTED -->
 
